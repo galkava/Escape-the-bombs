@@ -1,0 +1,12 @@
+Welcome!
+
+1. In this game, you have to destroy 9 of 10 bombs by moving the tank and bringing them to hit one another.
+2. You got one minute to achieve this aim.
+3. At the beginning (before you press the Start button), you can position the tank where you want.
+4. In emergency case you can use Jump option by pressing left or right Ctrl button. You got only three jumps.
+5. Every destroyed bomb brings you 100 points.
+6. Using the Jump option decrease your score by 50 points.
+7. Is there only one bomb left, you won.
+8. If one of the bombs hits the tank, you lose.
+
+Good luck!

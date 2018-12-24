@@ -1,0 +1,4 @@
+Escape the Bombs
+Version 0.9.8
+© Netanel Elimelech & Gal Kava, 2018.
+Learning project at Sela College, Bnei Brak, Israel
